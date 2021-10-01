@@ -1,0 +1,9 @@
+[
+    {
+    "resourceId": 2,
+    "title": "dock1",
+    "daysOfWeek": [ 1 ],
+    "startTime": "09:00:00+00:00",
+    "endTime": "10:00:00+00:00"
+    }
+]
